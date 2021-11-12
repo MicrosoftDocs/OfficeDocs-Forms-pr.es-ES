@@ -1,0 +1,26 @@
+### YamlMime:Hub
+title: Administrador de Microsoft Forms
+summary: 'Con Microsoft Forms, puede crear fácilmente encuestas, cuestionarios, sondeos y otro tipo de formularios. Desde casi todos los exploradores web o dispositivos móviles podrá invitar a las personas para que respondan a su formulario, ver los resultados en tiempo real a medida que se envían, usar análisis integrados para evaluar las respuestas y exportar resultados a Excel para realizar análisis o calificaciones adicionales. Forms está disponible con carácter general para clientes de Office365 Educación, clientes de aplicaciones de Microsoft365 para negocios y clientes con una cuenta de Microsoft (Hotmail, Live o Outlook.com).'
+brand: m365
+metadata:
+  title: Administrador de Microsoft Forms
+  description: Información general de administrador de Microsoft Forms
+  ms.service: Forms Admin
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 11/03/2021
+  localization_priority: Priority
+additionalContent:
+  sections:
+    - title: Para profesionales de TI
+      items:
+        - title: Administradores
+          summary: Obtenga información sobre la configuración del administrador de Forms y cómo configurarlo para cubrir las necesidades de la organización
+          url: /microsoft-forms/administrator-settings-microsoft-Forms
+    - title: Para otros públicos
+      items:
+        - title: Usuarios finales
+          summary: 'Crear, enviar y analizar un formulario, cuestionario o sondeo'
+          url: 'https://support.microsoft.com/forms'
